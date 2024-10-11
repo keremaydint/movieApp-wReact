@@ -18,3 +18,32 @@ github'daki bir projeyi local'de açmak için
 
 Vite kurulumu
     npm create vite@latest
+
+Redux
+React Router Dom
+Axios
+React-paginate  // for pagination
+React-icons  // for icons
+    paketleri kur
+
+git pull // repodaki tüm değişiklikleri çek - direk çekiyor
+git fectch // repodaki tüm değişiklikleri çek - kontrol edip çekiliyor
+
+Structure - İskelet yapısı 
+Pages - Components dosyalarını oluştur
+    Pages -> link değişiyorsa safya , aslında bu da bir component
+    Components -> 
+
+                    Navbar        : Component
+                Home              : Page
+                    Genre         : Component
+                    MovieList     : Component
+                        MovieCard : Component
+                MovieDetail       : Page
+                MyList            : Page
+                    MovieList     : Component
+                        MovieCard : Component
+
+                Total: 
+                    3 Pages, 
+                    4 Components
