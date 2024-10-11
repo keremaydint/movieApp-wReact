@@ -1,2 +1,20 @@
 github repo oluştur,    
     masaüstü > klasör > code . 
+
+git init
+README.md dosyasını oluştur
+git add .  
+git commit -m "commit mesajı"
+git remote add origin https://github.com/keremaydint/movieApp-wReact.git
+        (git remote add origin repoUrl.git şeklinde uzak repo ile bağlantı)
+git push origin master
+
+settings -> collabrator -> add people ile takım arkadaşı ekle
+
+
+github'daki bir projeyi local'de açmak için
+    git clone repoUrl.git
+
+
+Vite kurulumu
+    npm create vite@latest
